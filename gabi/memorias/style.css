@@ -1,0 +1,31 @@
+body {
+    background-color: #3e5d8c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #2e3a60;
+    text-align: center;
+    margin-top: 50px;
+    box-shadow: #333 0px 5px 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+.textinho {
+    text-align: center;
+    font-size: 20px;
+    color: #000000;
+    margin: 20px auto;
+    max-width: 600px;
+    background: #183166;
+    box-shadow: #0000003c 0px 2px 5px;
+    border-radius: 10px;
+}
