@@ -29,3 +29,25 @@ p {
     box-shadow: #0000003c 0px 2px 5px;
     border-radius: 10px;
 }
+.botão {
+    display: inline-block;
+    background-color: #2e3a60;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    box-shadow: #000 0px 2px 5px;
+    animation: infinite 0.5s ease-in-out;
+}
+
+.botão:hover {
+    background-color: #1a1f30;
+    animation: infinite 0.5s ease-in-out;
+}
+.botao2 {
+     height: 100vh; /* Altura da tela toda */
+    display: flex;
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center;     /* Centraliza na vertical */
+}
